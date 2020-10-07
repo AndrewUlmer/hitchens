@@ -12,3 +12,13 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+  font-family: "SaharaBodoniW01-Regular"; 
+  src: url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.eot"); 
+  src: url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.eot?#iefix") format("embedded-opentype"), 
+       url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.woff2") format("woff2"), 
+       url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.woff") format("woff"), 
+       url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.ttf") format("truetype"), 
+       url("//db.onlinewebfonts.com/t/b59c0187644a0c9a5e488deeb01f1ccb.svg#SaharaBodoniW01-Regular") format("svg"); 
+}
